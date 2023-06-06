@@ -1,3 +1,5 @@
+## Menu bar in React-Native
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/L4jxgBdh)
 ![BrightCoders Logo](img/logo.png)
 
@@ -5,14 +7,17 @@
 
 > [Antes de iniciar leer las instrucciones](./instructions.md)
 
-This README would normally document whatever steps are necessary to get the application up and running.
+## Table of contents
 
-Things you may want to cover:
+## Description
 
-- Title or Project Name
-- Table of contents
-- Description. A brief description of what the project is about
-- How to Install and Run the Project.
-- How to Use the Project.
-- Credits
-- Badges
+
+## How to Install and Run the Project.
+
+## How to Use the Project.
+
+
+## Credits
+## Montserrat Aguilar (montsegv-2@users.noreply.github.com)
+
+## Badges
