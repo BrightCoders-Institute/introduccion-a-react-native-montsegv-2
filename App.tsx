@@ -1,20 +1,8 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- */
-
 import React from 'react';
-//import type {PropsWithChildren} from 'react';
-import {SafeAreaView, Text} from 'react-native';
+import Navigation from './Navigation';
 
-function App(): JSX.Element {
-  return (
-    <SafeAreaView>
-      <Text>Hello World!</Text>
-    </SafeAreaView>
-  );
+function App() {
+  return <Navigation />;
 }
 
 export default App;
