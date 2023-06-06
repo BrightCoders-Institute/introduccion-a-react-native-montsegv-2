@@ -1,20 +1,23 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- */
-
 import React from 'react';
-//import type {PropsWithChildren} from 'react';
+import {StatusBar, StyleSheet} from 'react-native';
 import {SafeAreaView, Text} from 'react-native';
 
-function App(): JSX.Element {
+function App() {
   return (
-    <SafeAreaView>
+    <SafeAreaView style={styles.container}>
       <Text>Hello World!</Text>
+      <StatusBar />
     </SafeAreaView>
   );
 }
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: 'pink',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+});
 
 export default App;
